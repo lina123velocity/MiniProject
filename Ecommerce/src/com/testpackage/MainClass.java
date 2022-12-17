@@ -6,6 +6,7 @@ public class MainClass {
 		
 		  int i = 0;
 
+		  int j = 3;
 	}
 
 }
